@@ -1,0 +1,38 @@
+pH_change,Turbidity_change,Bacteria_shape,Yeast_shape,Contamination #occurrence
+
+Decreasing,Normal,True,True,Bacteria  2
+Decreasing,Normal,True,False,Bacteria  30
+Decreasing,Normal,False,False,Bacteria  30
+Decreasing,Normal,False,True,Bacteria  1
+Decreasing,Increasing,True,True,Bacteria  2
+Decreasing,Increasing,True,False,Bacteria  30
+Decreasing,Increasing,False,False,Bacteria  1
+Decreasing,Increasing,False,True,Bacteria  1
+
+
+Normal,Normal,True,True,Bacteria  1
+Normal,Normal,True,True,Yeast  1
+
+Normal,Normal,True,False,Bacteria  30
+Normal,Normal,False,False,False  143
+Normal,Normal,False,True,Yeast  30
+
+Normal,Increasing,True,True,Yeast 2
+Normal,Increasing,True,True,Bacteria 2
+
+Normal,Increasing,False,False,Yeast 2
+Normal,Increasing,False,False,Bacteria 2
+
+Normal,Increasing,False,True,Yeast  10
+Normal,Increasing,True,False,Bacteria  10
+
+
+Increasing,Normal,True,True,Yeast  2
+Increasing,Normal,True,False,Yeast  1
+Increasing,Normal,False,False,Yeast  30
+Increasing,Normal,False,True,Yeast  30
+Increasing,Increasing,True,True,Yeast  2
+Increasing,Increasing,True,False,Yeast  1
+Increasing,Increasing,False,False,Yeast  1
+Increasing,Increasing,False,True,Yeast  30
+
