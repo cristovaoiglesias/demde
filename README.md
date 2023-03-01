@@ -1,6 +1,6 @@
 # DEMDE: Decision Making Design based on Bayesian Network for Personalized Monitoring System
 
-This repository has the code and dataset used in the model evaluation of BN modeled in the case study.
+This repository has the code (NETICA software) and dataset used in the model evaluation of BN modeled in the case study.
 
 
 
